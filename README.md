@@ -1,6 +1,6 @@
 # Cleaner
 
-Python script to help you clean your directory by rearranging the files in sub-directories as per the file kind
+Python script to help you clean your directory by rearranging the files in sub-directories as per the file type
 
 ## How to use:
 
