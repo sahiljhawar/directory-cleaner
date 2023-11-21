@@ -29,4 +29,4 @@ You can add more extensions/filetype by appending to the `extensions.py` file.
 
 > **⚠️ Warning**
 >
-> The scripts moves (cuts and pastes) the file. Make sure you have a backup of the files before running the script. However, you can change the script to copy the files instead of moving them.
+> The scripts moves (cuts and pastes) the files. Make sure you have a backup of the files before running the script. However, you can change the script to copy the files instead of moving them.
