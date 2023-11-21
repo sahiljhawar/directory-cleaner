@@ -4,10 +4,10 @@ Python script to help you clean your directory by rearranging the files in sub-d
 
 ## How to use:
 
-First clone the repository to your local machine:
+- clone the repository on your local machine:
 `git clone git@github.com:sahiljhawar/directory-cleaner.git`
 
-and install `watchdog` using  `pip install watchdog`
+- install `watchdog` using  `pip install watchdog`
 
 To see it in action, run the following command in the directory where you cloned the repository:
 
