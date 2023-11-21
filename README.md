@@ -27,5 +27,5 @@ After executing the command, for the `watchdog` to get triggered perform some op
 
 You can add more extensions/filetype by appending to the `extensions.py` file.
 
-![WARNING]
-The scripts moves (cuts and pastes) the file. Make sure you have a backup of the files before running the script. However, you can change the script to copy the files instead of moving them.
+> ![WARNING]
+> The scripts moves (cuts and pastes) the file. Make sure you have a backup of the files before running the script. However, you can change the script to copy the files instead of moving them.
